@@ -1,1 +1,1 @@
-# yGPN..github.io
+# yGPN.github.io
